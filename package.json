@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "electron": "^15.3.1"
-  }
+  },
+  "name": "memocho_electron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YusukeTosa/memocho_electron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YusukeTosa/memocho_electron/issues"
+  },
+  "homepage": "https://github.com/YusukeTosa/memocho_electron#readme",
+  "description": ""
 }
